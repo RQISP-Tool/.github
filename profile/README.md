@@ -24,7 +24,7 @@ A metodologia adota práticas como:
 
 A abordagem metodológica aplicada permitiu o desenvolvimento do produto mínimo viável do RQ_ISP. Trabalhos futuros envolvem o aprimoramento da ferramenta, com ênfase na criação e gerenciamento de listas de verificação, além da adição de novas funcionalidades sugeridas por usuários.
 
-## 📁 Estrutura de Diretórios
+## 📁 Estrutura dos Repositórios
 
 - `client`: Frontend da aplicação.
 - `server`: Backend da aplicação.
@@ -38,21 +38,27 @@ A abordagem metodológica aplicada permitiu o desenvolvimento do produto mínimo
 
 ### 🛠️ Instalação
 
-1. Clone o repositório:
+
+
+1. Clone o repositório do client-side:
     ```sh
-    git clone https://github.com/dansousamelo/RQ_ISP.git
+    git clone https://github.com/RQISP-Tool/client-side
     cd RQ_ISP
     ```
 
-2. Instale as dependências do cliente:
+2. Instale as dependências do client-side:
     ```sh
-    cd client
     npm install
     ```
 
-3. Instale as dependências do servidor:
+3. Clone o repositório do servidor:
     ```sh
-    cd ../server
+    git clone https://github.com/RQISP-Tool/server
+    cd RQ_ISP
+    ``
+
+4. Instale as dependências do servidor:
+    ```sh
     npm install
     ```
 
@@ -68,7 +74,7 @@ AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
 PORT=8000
 ```
 
-Crie um arquivo `.env` no diretório `client` com a variável `VITE_BASE_URL`:
+Crie um arquivo `.env` no diretório `client-side` com a variável `VITE_BASE_URL`:
 ```plaintext
 VITE_BASE_URL=your_base_url
 ```
