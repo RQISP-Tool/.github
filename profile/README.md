@@ -43,7 +43,7 @@ A abordagem metodológica aplicada permitiu o desenvolvimento do produto mínimo
 1. Clone o repositório do client-side:
     ```sh
     git clone https://github.com/RQISP-Tool/client-side
-    cd RQ_ISP
+    cd client
     ```
 
 2. Instale as dependências do client-side:
@@ -54,8 +54,8 @@ A abordagem metodológica aplicada permitiu o desenvolvimento do produto mínimo
 3. Clone o repositório do servidor:
     ```sh
     git clone https://github.com/RQISP-Tool/server
-    cd RQ_ISP
-    ``
+    cd server
+    ```
 
 4. Instale as dependências do servidor:
     ```sh
