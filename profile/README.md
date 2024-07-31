@@ -4,8 +4,8 @@
 
 
 <p align="center">
-    <a href="https://rq-isp.vercel.app/"><img src="https://img.shields.io/badge/Aplicação%20Web-Online-brightgreen" alt="Aplicação Web"></a>
-    <a href="https://rq-isp.vercel.app/"><img src="https://img.shields.io/badge/Documentação-Disponível-blue" alt="Documentação"></a>
+    <a href="https://rqisp-tool.github.io/wiki"><img src="https://img.shields.io/badge/Aplicação%20Web-Online-brightgreen" alt="Aplicação Web"></a>
+    <a href="https://rqisp-tool.github.io/wiki"><img src="https://img.shields.io/badge/Documentação-Disponível-blue" alt="Documentação"></a>
     <img src="https://img.shields.io/badge/Versão-1.0.0-purple" alt="Versão">
     <img src="https://img.shields.io/badge/Licença-MIT-green" alt="Licença">
 </p>
@@ -14,6 +14,8 @@
 
 Falhas e defeitos em software podem resultar em erros, levando a interrupções indesejadas e custos adicionais na área de desenvolvimento de software. A inspeção de software desempenha um papel fundamental ao permitir uma revisão rigorosa, identificando e corrigindo falhas antes que causem problemas, melhorando, assim, a qualidade do software e evitando consequências negativas. O objetivo deste trabalho é propor uma ferramenta para apoiar o processo de inspeção, visando aumentar a precisão e eficiência das inspeções.
 
+ **Documentação disponível em:** [**RQ_ISP - Wiki**](https://rqisp-tool.github.io/wiki)
+ 
 ## 🛠️ Metodologia
 
 A metodologia adota práticas como:
